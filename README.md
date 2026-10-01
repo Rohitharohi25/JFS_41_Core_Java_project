@@ -166,5 +166,3 @@ Select the required option and follow the instructions displayed in the console.
 **Rohitha Jujjuri**
 
 **B.Tech – Information Technology**
-
-**Skills:** Core Java | MySQL | Front-End Development | UI/UX Design
